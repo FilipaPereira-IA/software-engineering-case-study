@@ -20,3 +20,7 @@ O planeamento completo está organizado no **Notion**, cobrindo:
 
 ---
 🔗 **[Link para a Documentação Detalhada no Notion](https://hazel-spring-915.notion.site/Plataforma-de-Ado-o-e-Servi-os-para-Animais-310eaade78f1805e9130d4f0890740a9?source=copy_link)**
+
+![Diagrama de caso de uso](img/Diagrama de caso de uso.png)
+![Diagrama de contexto](img/Diagrama de contexto.png)
+![Mapa conceitual](img/Mapa conceitual.png)
