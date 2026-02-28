@@ -19,4 +19,4 @@ O planeamento completo está organizado no **Notion**, cobrindo:
 - **Infraestrutura:** Cloud Storage para media e Gateway de pagamentos externa.
 
 ---
-🔗 **[Link para a Documentação Detalhada no Notion](https://hazel-spring-915.notion.site/Plataforma-de-Ado-o-e-Servi-os-para-Animais-310eaade78f1805e9130d4f0890740a9?source=copy_link))**
+🔗 **[Link para a Documentação Detalhada no Notion](https://hazel-spring-915.notion.site/Plataforma-de-Ado-o-e-Servi-os-para-Animais-310eaade78f1805e9130d4f0890740a9?source=copy_link)**
