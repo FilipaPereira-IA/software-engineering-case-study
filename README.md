@@ -12,7 +12,7 @@ O planeamento completo está organizado no **Notion**, cobrindo:
 - **Especificação de Requisitos:** Levantamento funcional e não funcional (MoSCoW).
 - **Plano de Testes:** Casos de teste de aceitação.
 
-## 🛠️ Stack Tecnológica Sugerida
+## Componentes do Sistema
 - **Frontend:** Framework moderna baseada em componentes.
 - **Backend:** API REST escalável.
 - **Base de Dados:** Relacional SQL para integridade de transações.
