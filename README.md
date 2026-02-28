@@ -1,4 +1,4 @@
-# Pet Adoption & Care Ecosystem
+# Engenharia de Software aplicada ao Bem-Estar Animal
 
 Este projeto apresenta a análise e especificação de software para uma plataforma integrada de adoção animal e rede de benefícios.
 
