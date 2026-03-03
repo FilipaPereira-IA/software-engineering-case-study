@@ -1,22 +1,24 @@
-# Engenharia de Software aplicada ao Bem-Estar Animal
+# Software Engineering Applied to Animal Welfare
 
-Este projeto apresenta a análise e especificação de software para uma plataforma integrada de adoção animal e rede de benefícios.
+This project presents the software analysis and specification for an integrated pet adoption platform and benefits network.
 
-## Visão do Projeto
-A plataforma visa profissionalizar o processo de adoção, conectando associações a adotantes, enquanto integra parceiros comerciais (veterinários e hotéis) num modelo de subscrição premium.
+This work was inspired by and grounded in the principles of Software Engineering for Intelligent Systems taught in the Master's in Artificial Intelligence, applying system design methodologies and architectural principles for decision support.
 
-## Estrutura da Documentação
-O planeamento completo está organizado no **Notion**, cobrindo:
-- **Modelo de Domínio:** Estrutura de dados e relações entre Entidades.
-- **Diagrama de Contexto:** Fluxos de informação com sistemas externos (Pagamentos/Parceiros).
-- **Especificação de Requisitos:** Levantamento funcional e não funcional (MoSCoW).
-- **Plano de Testes:** Casos de teste de aceitação.
+## Project Vision
+The platform aims to professionalise the adoption process by connecting associations with adopters, while integrating commercial partners (veterinarians and pet hotels) through a premium subscription model.
 
-## Componentes do Sistema
-- **Frontend:** Framework moderna baseada em componentes.
-- **Backend:** API REST escalável.
-- **Base de Dados:** Relacional SQL para integridade de transações.
-- **Infraestrutura:** Cloud Storage para media e Gateway de pagamentos externa.
+## Documentation Structure
+The comprehensive planning is organised in Notion, covering:
+- Domain Model: Data structure and relationships between Entities.
+- Context Diagram: Information flows with external systems (Payments/Partners).
+- Requirements Specification: Functional and non-functional requirements gathering (MoSCoW).
+- Test Plan: Acceptance test cases.
+
+## System Components
+- Frontend: Modern component-based framework.
+- Backend: Scalable REST API.
+- Database: Relational SQL for transactional integrity.
+- Infrastructure: Cloud Storage for media and external Payment Gateway.
 
 ---
 🔗 **[Link para a Documentação Detalhada no Notion](https://hazel-spring-915.notion.site/Plataforma-de-Ado-o-e-Servi-os-para-Animais-310eaade78f1805e9130d4f0890740a9?source=copy_link)**
