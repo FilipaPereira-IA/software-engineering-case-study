@@ -22,7 +22,3 @@ The comprehensive planning is organised in Notion, covering:
 
 ---
 🔗 **[Link to Detailed Documentation on Notion](https://hazel-spring-915.notion.site/Plataforma-de-Ado-o-e-Servi-os-para-Animais-310eaade78f1805e9130d4f0890740a9?source=copy_link)**
-
-![Diagrama_caso_ de_uso_eng](img/Diagrama_caso_ de_uso_eng.png)
-![Diagrama_de_ contexto_eng](img/Diagrama_de_ contexto_eng.png)
-![Modelo_dominio_eng](img/Modelo_dominio_eng.png)
